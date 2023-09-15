@@ -129,7 +129,7 @@ Please adhere to the coding standards and best practices of the Python programmi
 
 If you have questions or need assistance with this repository, you can contact:
 
-- Repo Owner/Admin: [Your Name]
-- Other Community or Team Contact: [Optional]
+- Repo Owner/Admin: Ganesamanian Kolappan
+- mail-id: kganesamanianthanu@gmail.com
 
 Feel free to reach out for any inquiries or collaboration opportunities related to this project.
